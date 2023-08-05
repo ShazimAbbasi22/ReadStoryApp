@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReadStoryApp</string>
+    <string name="the_boy_who_cried_wolf">The Boy Who Cried Wolf</string>
+    <string name="the_golden_touch">The Golden Touch</string>
+    <string name="the_fox_and_the_grapes">The Fox and the Grapes</string>
+    <string name="the_proud_rose">The Proud Rose</string>
+    <string name="the_milkmaid_and_her_pail">The MilkMaid and Her Pail</string>
+</resources>
